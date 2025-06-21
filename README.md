@@ -35,4 +35,5 @@ This project was completed as part of a Coursera data science lab. It involves e
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/Analyzing-Tesla-and-GameStop-Historical-Stock-and-Revenue-Data-Using-Python.git
+git clone https://github.com/Sunil12409876/Analyzing-Tesla-and-GameStop-Historical-Stock-and-Revenue-Data-Using-Python.git
+
